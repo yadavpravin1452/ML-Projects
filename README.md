@@ -84,9 +84,5 @@ Through this project, I learned:
 - How the KNN algorithm works internally
 - The importance of choosing an appropriate value of K
 - Distance calculation and majority voting
-- How to structure and document a machine learning project
-
----
-
-## Project Structure
+- How to structure and document a machine learning project.
 
