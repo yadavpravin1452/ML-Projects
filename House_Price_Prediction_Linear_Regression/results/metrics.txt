@@ -1,0 +1,28 @@
+Model Results Summary
+
+Model Name:
+Linear Regression (Scikit-learn)
+
+Target Variable:
+SalePrice
+
+Features Used:
+- TotalBsmtSF
+- YearBuilt
+- YearRemodAdd
+- LotArea
+- OverallCond
+
+Evaluation Metrics:
+RMSE: 57388.71
+R2 Score: 0.5706
+
+Interpretation:
+The model explains approximately 57% of the variance in house prices.
+Prediction error is influenced by outliers, linear assumptions,
+and exclusion of categorical variables.
+
+Remarks:
+This model is used as a baseline regression model.
+Further improvements are possible using feature encoding
+and advanced regression techniques.
