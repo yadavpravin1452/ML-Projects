@@ -86,7 +86,3 @@ Through this project, I learned:
 - Distance calculation and majority voting
 - How to structure and document a machine learning project
 
----
-
-## Project Structure
-
