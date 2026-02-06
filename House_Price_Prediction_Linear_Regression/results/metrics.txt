@@ -3,6 +3,9 @@ Model Results Summary
 Model Name:
 Linear Regression (Scikit-learn)
 
+Train-Test Split:
+80% Training, 20% Testing
+
 Target Variable:
 SalePrice
 
@@ -23,6 +26,6 @@ Prediction error is influenced by outliers, linear assumptions,
 and exclusion of categorical variables.
 
 Remarks:
-This model is used as a baseline regression model.
-Further improvements are possible using feature encoding
-and advanced regression techniques.
+This model serves as a baseline regression model.
+Further improvements are possible by including categorical features
+and using advanced regression techniques.
